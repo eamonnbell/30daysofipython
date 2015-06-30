@@ -11,3 +11,5 @@ Code and associated files for each day will be contained in a folder labeled `da
 
 In order to plan the month ahead so that I'm not scrounging around for ideas, I'll be dumping ideas for projects - and a tentative schedule - here:
 
+- Day 1 (= July 1st): The Color Bach
+- Day 2: Foreign Policies
