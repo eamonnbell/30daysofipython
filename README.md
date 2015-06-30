@@ -15,3 +15,5 @@ In order to plan the month ahead so that I'm not scrounging around for ideas, I'
 - Day 2: Foreign Policies
 - Day 3: YouTube Trolls "Under The Bridge"
 - Day 4: Reely not so Different
+- Day ?: Markov Groening
+- Day ?: matplotlib implementation of Fibonacci Clock
