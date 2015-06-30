@@ -19,3 +19,4 @@ In order to plan the month ahead so that I'm not scrounging around for ideas, I'
 - Day ?: matplotlib implementation of Fibonacci Clock
 - Day ?: Beri(O)ld Music; New Pair of Eyes (OpenCV)
 - Day ?: Perceptual Hashes and Logo Similarity
+- Day ?: QR-RE
