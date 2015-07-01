@@ -1,5 +1,5 @@
 # 30daysofipython
-30 days of iPython Noteboook hackery - updated daily in July 2015
+30 days of iPython Noteboook hackery
 
 I suck at Python. I write Python like I'm still 10 years old, programming in QBASIC. I don't even need to be a ~~good~~ better programmer in my line of work (I'm a music student), but it's something that I've wanted to work on for a while, and I know the only way to improve is to write, write, write.
 
