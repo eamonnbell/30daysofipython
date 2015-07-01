@@ -11,10 +11,10 @@ Code and associated files for each day will be contained in a folder labeled `da
 
 In order to plan the month ahead so that I'm not scrounging around for ideas, I'll be dumping ideas for projects - and a tentative schedule - here:
 
-- Day 1 (= July 1st): The Color Bach
-- Day 2: Foreign Policies
-- Day 3: YouTube Trolls "Under The Bridge"
-- Day 4: Reely not so Different
+- Day 1: [The Color Bach](https://github.com/eamonnbell/30daysofipython/blob/master/day1/The%20Color%20Bach.ipynb)
+- Day ?: Foreign Policies
+- Day ?: YouTube Trolls "Under The Bridge"
+- Day ?: Reely not so Different
 - Day ?: Markov Groening
 - Day ?: matplotlib implementation of Fibonacci Clock
 - Day ?: Beri(O)ld Music; New Pair of Eyes (OpenCV)
