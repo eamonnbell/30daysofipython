@@ -1,5 +1,5 @@
 # 30daysofipython
-30 days of iPython Noteboook hackery
+30 days of iPython Noteboook hackery `#30daysofipy`
 
 I suck at Python. I write Python like I'm still 10 years old, programming in QBASIC. I don't even need to be a ~~good~~ better programmer in my line of work (I'm a music student), but it's something that I've wanted to work on for a while, and I know the only way to improve is to write, write, write.
 
@@ -20,3 +20,4 @@ In order to plan the month ahead so that I'm not scrounging around for ideas, I'
 - Day ?: Beri(O)ld Music; New Pair of Eyes (OpenCV)
 - Day ?: Perceptual Hashes and Logo Similarity
 - Day ?: QR-RE
+- Day ?: BioHasard
