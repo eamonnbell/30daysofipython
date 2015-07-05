@@ -12,10 +12,10 @@ Code and associated files for each day will be contained in a folder labeled `da
 In order to plan the month ahead so that I'm not scrounging around for ideas, I'll be dumping ideas for projects - and a tentative schedule - here:
 
 - Day 1: [The Color Bach](https://github.com/eamonnbell/30daysofipython/blob/master/day1/The%20Color%20Bach.ipynb)
-- Day ?: Foreign Policies
+- Day 2: [Foreign Policies](https://github.com/eamonnbell/30daysofipython/blob/master/day2/Foreign%20Policies.ipynb)
+- Day 3: [Markov Groening](https://github.com/eamonnbell/30daysofipython/blob/master/day3/Markov%20Groening.ipynb)
 - Day ?: YouTube Trolls "Under The Bridge"
 - Day ?: Reely not so Different
-- Day ?: Markov Groening
 - Day ?: matplotlib implementation of Fibonacci Clock
 - Day ?: Beri(O)ld Music; New Pair of Eyes (OpenCV)
 - Day ?: Perceptual Hashes and Logo Similarity
